@@ -1,5 +1,5 @@
   # TriTech Lead Management System
-  A simple lead management system created using Java and MySQL
+  A simple lead management(CRUD) system created using Java, Swing library and MySQL.
 
   Team Members : Eshitha Suradin, Vinodh Ramanayake, Naveendra Dhanushan, Yohan Buddhika
 
